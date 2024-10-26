@@ -1,6 +1,5 @@
-<div align='center'>
-    <font  size="70">技术深度研究：推荐系统领域的最新进展</front>
-</div>
+# 技术深度研究：推荐系统领域的最新进展
+
 班级：计科普通1班         学号：222021336210215       姓名：王世浩
 
 ##### 摘要：   推荐系统是信息过滤技术的核心之一，广泛应用于电子商务、社交媒体、流媒体等平台，帮助用户从海量信息中发现感兴趣的内容。随着大数据和人工智能技术的发展，推荐系统从传统的基于内容和协同过滤的模型发展到了更为复杂的深度学习模型。本文将通过总结两到三篇代表性论文，探讨推荐系统领域的最新研究成果、理论发展及实际应用。
@@ -75,7 +74,7 @@ SASRec模型的核心是利用Transformer中的自注意力机制来捕捉用户
 
 ##### 参考文献：
 
-​        He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T.-S. (2017). Neural Collaborative Filtering. In Proceedings of the 26th International Conference on World Wide Web (pp. 173-182). International World Wide Web Conferences Steering Committee.< https://doi.org/10.1145/3038912.3052569>
+​        He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T.-S. (2017). Neural Collaborative Filtering. In Proceedings of the 26th International Conference on World Wide Web (pp. 173-182). International World Wide Web Conferences Steering Committee.<https://doi.org/10.1145/3038912.3052569>
 
 Wang, X., He, X., Wang, M., Feng, F., & Chua, T.-S. (2019). Neural Graph Collaborative Filtering. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 165-174). ACM.<https://doi.org/10.1145/3331184.3331267>
 
